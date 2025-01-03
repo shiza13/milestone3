@@ -1,0 +1,21 @@
+{
+    "cart": [
+      {
+        "id": 1,
+        "productName": "Graystone vase",
+        "description": "A timeless ceramic vase with a soft color gray glaze.",
+        "price": 85,
+        "quantity": 1,
+        "image": "https://via.placeholder.com/50"
+      },
+      {
+        "id": 2,
+        "productName": "Basic white vase",
+        "description": "Beautiful and simple; this is one for the classics.",
+        "price": 125,
+        "quantity": 1,
+        "image": "https://via.placeholder.com/50"
+      }
+    ]
+  }
+  
